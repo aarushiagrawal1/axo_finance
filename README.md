@@ -77,3 +77,11 @@ The system is governed by the following strict mapping rules:
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
+
+2. **Credential Storage:**
+    - Place `credentials.json` in the root (OAuth 2.0 Client ID).
+    - Create a `.env` file with your `GITHUB_TOKEN`.
+
+3. **Execution:**
+    ```bash
+    python agent.py
