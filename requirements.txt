@@ -1,0 +1,24 @@
+# pip install -r requirements.txt
+
+# AutoGen AI Framework
+autogen-agentchat
+autogen-ext[openai]
+
+# Google Gmail API
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Document Processing & Vision OCR
+pymupdf
+openai
+
+# PDF Generation Engine
+markdown
+weasyprint
+
+# Security / Environment Variables
+python-dotenv
+
+# Google Sheets Integration
+gspread
